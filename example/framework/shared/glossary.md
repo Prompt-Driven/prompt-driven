@@ -1,0 +1,3 @@
+# Glossário
+
+Aqui você define os termos usados no projeto, ex: Cliente, Lead, Admin...
