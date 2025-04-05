@@ -16,7 +16,7 @@
 
 ## 📁 Estrutura do Projeto
 
-```bash
+```
 .
 ├── shared/                       # Contexto compartilhado entre versões
 │   ├── glossary.md
@@ -33,7 +33,8 @@
 ├── results/                     # Resultados e feedbacks por versão
 ├── assets/                      # Logotipos e imagens visuais
 │   └── logo.png
-├── main-prompt.md              # Prompt orquestrador (entrada principal da IA)
+├── project/                     # Código fonte gerado a partir dos prompts
+└── main-prompt.md              # Prompt orquestrador (entrada principal da IA)
 ```
 
 ---
